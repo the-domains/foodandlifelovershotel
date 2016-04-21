@@ -13,6 +13,9 @@ color:
     - '#6B574B'
     - '#160600'
 layout_spectrum: 0.3622979561332613
+author:
+  name: Peter Roth
+  email: info@spechtshaardt.de
 name: foodandlifelovershotel
 favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/d97a517f-a66a-47ff-b5d7-ac4f36559e3c.jpg'
 title: Spechtshaardt - your hotel in the spessart
