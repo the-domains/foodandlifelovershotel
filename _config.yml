@@ -1,5 +1,6 @@
-layout_spectrum: 0.3622979561332613
 typography_spectrum: 0.19321584445424378
+content_rating:
+  adult: true
 color:
   brandStrength: 0.6180489177349955
   lightness: 0.35027395584620535
@@ -11,4 +12,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.3622979561332613
 name: foodandlifelovershotel
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/d97a517f-a66a-47ff-b5d7-ac4f36559e3c.jpg'
+title: Spechtshaardt - your hotel in the spessart
