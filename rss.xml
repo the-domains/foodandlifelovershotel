@@ -1,31 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[foodandlifelovershotel]]></title>
-        <description><![CDATA[foodandlifelovershotel]]></description>
+        <title><![CDATA[Spechtshaardt - your hotel in the spessart]]></title>
+        <description><![CDATA[Spechtshaardt - your hotel in the spessart]]></description>
         <link>https://thegrid.ai/foodandlifelovershotel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 19:05:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 22:10:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/foodandlifelovershotel/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Our beautiful house]]></title>
-            <description><![CDATA[<article><h1>Our beautiful house</h1><p>In the heart of the beautiful Spessart there is this place where you can relax</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/366a9633909c8218bead33dc8c3f2a9fc4ca94d8.jpg"></article>]]></description>
+            <description><![CDATA[<p>In the heart of the beautiful Spessart there is this place you can relax</p>]]></description>
             <link>https://source.unsplash.com/random</link>
             <guid isPermaLink="false">cfd0af5e-818e-4a19-8594-d5a0f0d771e4</guid>
-            <pubDate>Thu, 21 Apr 2016 19:03:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Design School's Ultimate Guide to Designing With Backgrounds [With Ready-to-Use Templates]]]></title>
-            <description><![CDATA[<article><h1>The Design School's Ultimate Guide to Designing With Backgrounds [With Ready-to-Use Templates]</h1><p>Design is a plan for arranging elements in such a way as to accomplish a particular purpose. - Charles Eames In order to arrange your design, you need a place to start. Backgrounds are the foundation of your graphics - it helps pave the path to forming a successful composition.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/877d79945943ec595c9e850987ca4480cd3a921f.jpg"></article>]]></description>
-            <link>https://designschool.canva.com/blog/background-design/</link>
-            <guid isPermaLink="false">886d9018-4f70-4e14-8ad3-ca331315f21d</guid>
-            <pubDate>Thu, 21 Apr 2016 18:45:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Instagram for Business]]></title>
-            <description><![CDATA[<article><h1>Instagram for Business</h1><p>Social media is an incredibly powerful tool - and Instagram is one of the most powerful, so why not use it to its full advantage? With well over 400 million users worldwide, there is an incredibly large audience just waiting to discover your brand.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/274ad43296679c972aa8df4a6d88c8433c0b45e4.jpg"></article>]]></description>
-            <link>https://designschool.canva.com/blog/instagram-for-business/</link>
-            <guid isPermaLink="false">24217150-fdbd-4e58-92d0-8dfc6d9a08b9</guid>
-            <pubDate>Thu, 21 Apr 2016 18:45:53 GMT</pubDate>
+            <pubDate>Wed, 15 Jun 2016 22:10:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
